@@ -1,4 +1,3 @@
-## Hi there 👋
 # Anel Zhunussova
 
 Machine Learning Engineer | Neuroimaging Data Scientist | AI for Biomedical Research
